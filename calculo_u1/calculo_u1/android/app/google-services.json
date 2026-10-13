@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713446382572",
+    "project_id": "calculo-u1-mar",
+    "storage_bucket": "calculo-u1-mar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713446382572:android:04bf7c2df3996f2dce7ec9",
+        "android_client_info": {
+          "package_name": "com.example.calculo_u1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFi023Qi29esLort13JyatGhXz40t60T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
